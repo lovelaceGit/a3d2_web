@@ -10,4 +10,9 @@ body {
     border: 1px solid #ddd;
 }
 
+#sec1 {
+    color: white;
+    background-color: black;
+}
+
 /* Agrega los estilos para las diferentes unidades de medida en cada sección */
